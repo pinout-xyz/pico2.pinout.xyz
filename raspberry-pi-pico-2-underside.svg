@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 3543.7019 22571.758"
+   version="1.1"
+   id="svg1242"
+   width="3543.7019"
+   height="22571.758"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1246" />
+  <path
+     d="M 21.264,0 A 0.565,0.565 0 0 0 20.722,0.4 L 20.41,1.43 19.843,2 v 14.441 a 0.567,0.567 0 0 0 0.567,0.568 h 3.46 a 0.284,0.284 0 0 0 0.284,-0.283 V 15.9 a 0.569,0.569 0 0 0 -0.295,-0.5 l -1.926,-1.052 a 0.567,0.567 0 0 1 -0.295,-0.5 V 13.021 H 22.9 V 12.07 h 1.94 v 0.953 h 1.144 v 1.971 a 0.567,0.567 0 0 0 0.567,0.568 h 0.919 v -1.023 h 4.59 v 1.023 h 0.92 a 0.567,0.567 0 0 0 0.566,-0.568 V 13.023 H 34.69 V 12.07 h 1.944 v 0.953 h 1.258 v 0.827 a 0.567,0.567 0 0 1 -0.3,0.5 l -1.921,1.05 a 0.568,0.568 0 0 0 -0.3,0.5 v 0.829 a 0.284,0.284 0 0 0 0.284,0.283 h 3.459 a 0.568,0.568 0 0 0 0.568,-0.568 V 2 L 39.114,1.433 38.809,0.4 A 0.567,0.567 0 0 0 38.266,0 Z"
+     style="fill:#dbddda"
+     id="path1014" />
+  <path
+     d="m 59.529,15.537 v -4.782 0 a 1.18,1.18 0 0 1 -0.54,-0.143 v 5.068 a 1.177,1.177 0 0 1 0.54,-0.143 z"
+     style="fill:#004e29"
+     id="path824" />
+  <path
+     d="m 59.529,22.738 v -4.782 0 a 1.18,1.18 0 0 1 -0.54,-0.143 v 5.068 a 1.165,1.165 0 0 1 0.54,-0.143 z"
+     style="fill:#004e29"
+     id="path826" />
+  <path
+     d="m 59.529,29.938 v -4.78 0 a 1.18,1.18 0 0 1 -0.54,-0.143 v 5.066 a 1.177,1.177 0 0 1 0.54,-0.143 z"
+     style="fill:#004e29"
+     id="path828" />
+  <path
+     d="m 59.529,37.137 v -4.78 0 a 1.18,1.18 0 0 1 -0.54,-0.143 v 5.066 a 1.177,1.177 0 0 1 0.54,-0.143 z"
+     style="fill:#004e29"
+     id="path830" />
+  <path
+     d="m 59.529,44.336 v -4.78 0 a 1.18,1.18 0 0 1 -0.54,-0.143 v 5.066 a 1.177,1.177 0 0 1 0.54,-0.143 z"
+     style="fill:#004e29"
+     id="path832" />
+  <path
+     d="m 59.529,51.536 v -4.78 0 a 1.181,1.181 0 0 1 -0.54,-0.144 v 5.067 a 1.177,1.177 0 0 1 0.54,-0.143 z"
+     style="fill:#004e29"
+     id="path834" />
+  <path
+     d="m 59.529,58.736 v -4.781 0 a 1.18,1.18 0 0 1 -0.54,-0.143 v 5.067 a 1.177,1.177 0 0 1 0.54,-0.143 z"
+     style="fill:#004e29"
+     id="path836" />
+  <path
+     d="m 59.529,65.936 v -4.781 0 a 1.18,1.18 0 0 1 -0.54,-0.143 v 5.067 a 1.177,1.177 0 0 1 0.54,-0.143 z"
+     style="fill:#004e29"
+     id="path838" />
+  <path
+     d="m 59.529,73.137 v -4.781 0 a 1.18,1.18 0 0 1 -0.54,-0.143 v 5.067 a 1.177,1.177 0 0 1 0.54,-0.143 z"
+     style="fill:#004e29"
+     id="path840" />
+  <path
+     d="m 59.529,80.337 v -4.781 0 a 1.18,1.18 0 0 1 -0.54,-0.143 v 5.066 a 1.177,1.177 0 0 1 0.54,-0.143 v 0"
+     style="fill:#004e29"
+     id="path842" />
+  <path
+     d="m 59.529,87.536 v -4.78 0 a 1.181,1.181 0 0 1 -0.54,-0.144 v 5.067 a 1.177,1.177 0 0 1 0.54,-0.143 z"
+     style="fill:#004e29"
+     id="path844" />
+  <path
+     d="m 59.529,94.736 v -4.781 0 a 1.18,1.18 0 0 1 -0.54,-0.143 v 5.067 a 1.177,1.177 0 0 1 0.54,-0.143 z"
+     style="fill:#004e29"
+     id="path846" />
+  <path
+     d="m 59.529,101.936 v -4.781 0 a 1.18,1.18 0 0 1 -0.54,-0.143 v 5.067 a 1.177,1.177 0 0 1 0.54,-0.143 z"
+     style="fill:#004e29"
+     id="path848" />
+  <path
+     d="m 59.529,109.137 v -4.781 0 a 1.18,1.18 0 0 1 -0.54,-0.143 v 5.067 a 1.177,1.177 0 0 1 0.54,-0.143 z"
+     style="fill:#004e29"
+     id="path850" />
+  <path
+     d="m 59.529,116.337 v -4.781 0 a 1.18,1.18 0 0 1 -0.54,-0.143 v 5.066 a 1.176,1.176 0 0 1 0.54,-0.142 z"
+     style="fill:#004e29"
+     id="path852" />
+  <path
+     d="m 59.529,123.537 v -4.781 0 a 1.169,1.169 0 0 1 -0.54,-0.144 v 5.067 a 1.176,1.176 0 0 1 0.54,-0.142 v 0"
+     style="fill:#004e29"
+     id="path854" />
+  <path
+     d="m 59.529,130.736 v -4.781 0 a 1.18,1.18 0 0 1 -0.54,-0.143 v 5.067 a 1.177,1.177 0 0 1 0.54,-0.143 z"
+     style="fill:#004e29"
+     id="path856" />
+  <path
+     d="m 59.529,137.936 v -4.781 0 a 1.18,1.18 0 0 1 -0.54,-0.143 v 5.067 a 1.177,1.177 0 0 1 0.54,-0.143 z"
+     style="fill:#004e29"
+     id="path858" />
+  <path
+     d="m 59.529,145.136 v -4.78 0 a 1.18,1.18 0 0 1 -0.54,-0.143 v 5.065 a 1.176,1.176 0 0 1 0.54,-0.142 z"
+     style="fill:#004e29"
+     id="path860" />
+  <path
+     d="m 59.529,147.555 v 0 a 1.18,1.18 0 0 1 -0.54,-0.143 v 1.577 a 0.709,0.709 0 0 1 -0.709,0.709 H 38.032 a 1.174,1.174 0 0 1 0.143,0.54 h 20.219 a 1.134,1.134 0 0 0 1.134,-1.135 v -1.549 z"
+     style="fill:#004e29"
+     id="path862" />
+  <path
+     d="m 23.631,149.7 a 1.178,1.178 0 0 1 0.143,0.541 h 4.78 a 1.183,1.183 0 0 1 0.142,-0.541 z"
+     style="fill:#004e29"
+     id="path864" />
+  <path
+     d="m 30.831,149.7 a 1.178,1.178 0 0 1 0.143,0.541 h 4.782 a 1.183,1.183 0 0 1 0.142,-0.541 z"
+     style="fill:#004e29"
+     id="path866" />
+  <path
+     d="m 59.2,6 -0.416,0.417 a 0.707,0.707 0 0 1 0.208,0.5 V 8.48 a 1.177,1.177 0 0 1 0.54,-0.143 v 0 -1.532 A 1.126,1.126 0 0 0 59.2,6"
+     style="fill:#004e29"
+     id="path868" />
+  <path
+     d="M 21.5,149.7 H 1.251 a 0.708,0.708 0 0 1 -0.5,-0.208 l -0.417,0.417 a 1.134,1.134 0 0 0 0.8,0.332 h 20.221 a 1.178,1.178 0 0 1 0.143,-0.541"
+     style="fill:#004e29"
+     id="path870" />
+  <path
+     d="m 0.542,6.921 v 1.558 a 1.2,1.2 0 0 1 0.67,1.067 1.2,1.2 0 0 1 -0.67,1.066 v 5.069 a 1.183,1.183 0 0 1 0,2.132 v 5.068 a 1.2,1.2 0 0 1 0.67,1.066 1.2,1.2 0 0 1 -0.67,1.068 v 5.065 a 1.2,1.2 0 0 1 0.67,1.067 1.2,1.2 0 0 1 -0.67,1.067 v 5.065 a 1.2,1.2 0 0 1 0.67,1.068 1.2,1.2 0 0 1 -0.67,1.066 v 5.066 a 1.2,1.2 0 0 1 0.67,1.068 1.2,1.2 0 0 1 -0.67,1.066 v 5.067 a 1.2,1.2 0 0 1 0.67,1.066 1.2,1.2 0 0 1 -0.67,1.067 v 5.067 a 1.2,1.2 0 0 1 0.67,1.066 1.206,1.206 0 0 1 -0.67,1.068 v 5.066 a 1.2,1.2 0 0 1 0.67,1.066 1.2,1.2 0 0 1 -0.67,1.067 v 5.066 a 1.2,1.2 0 0 1 0.67,1.068 1.2,1.2 0 0 1 -0.67,1.066 v 5.066 a 1.2,1.2 0 0 1 0.67,1.068 1.2,1.2 0 0 1 -0.67,1.066 v 5.067 a 1.2,1.2 0 0 1 0.67,1.066 1.2,1.2 0 0 1 -0.67,1.067 v 5.067 a 1.2,1.2 0 0 1 0.67,1.066 1.206,1.206 0 0 1 -0.67,1.068 v 5.066 a 1.2,1.2 0 0 1 0.67,1.066 1.2,1.2 0 0 1 -0.67,1.067 v 5.066 a 1.2,1.2 0 0 1 0.67,1.068 1.2,1.2 0 0 1 -0.67,1.066 v 5.066 a 1.2,1.2 0 0 1 0.67,1.068 1.2,1.2 0 0 1 -0.67,1.066 v 5.067 a 1.2,1.2 0 0 1 0.67,1.066 1.2,1.2 0 0 1 -0.67,1.067 v 5.067 a 1.2,1.2 0 0 1 0.67,1.066 1.2,1.2 0 0 1 -0.67,1.068 v 5.066 a 1.2,1.2 0 0 1 0.67,1.066 1.2,1.2 0 0 1 -0.67,1.067 v 5.065 a 1.2,1.2 0 0 1 0.67,1.068 1.2,1.2 0 0 1 -0.67,1.066 v 1.577 a 0.708,0.708 0 0 0 0.709,0.708 H 21.5 a 1.185,1.185 0 0 1 2.134,0 H 28.7 a 1.185,1.185 0 0 1 2.134,0 H 35.9 a 1.185,1.185 0 0 1 2.134,0 h 20.245 a 0.708,0.708 0 0 0 0.708,-0.708 v -1.577 a 1.185,1.185 0 0 1 0,-2.134 v -5.064 a 1.185,1.185 0 0 1 0,-2.134 v -5.066 a 1.185,1.185 0 0 1 0,-2.134 v -5.067 a 1.185,1.185 0 0 1 0,-2.133 v -5.067 a 1.185,1.185 0 0 1 0,-2.134 v -5.065 a 1.185,1.185 0 0 1 0,-2.134 v -5.066 a 1.185,1.185 0 0 1 0,-2.134 v -5.066 a 1.185,1.185 0 0 1 0,-2.134 v -5.067 a 1.185,1.185 0 0 1 0,-2.133 v -5.067 a 1.185,1.185 0 0 1 0,-2.134 v -5.065 a 1.185,1.185 0 0 1 0,-2.134 v -5.066 a 1.185,1.185 0 0 1 0,-2.134 v -5.066 a 1.185,1.185 0 0 1 0,-2.134 v -5.067 a 1.185,1.185 0 0 1 0,-2.133 v -5.067 a 1.185,1.185 0 0 1 0,-2.133 v -5.066 a 1.185,1.185 0 0 1 0,-2.134 v -5.066 a 1.185,1.185 0 0 1 0,-2.134 v -5.065 a 1.185,1.185 0 0 1 0,-2.134 v -5.068 a 1.184,1.184 0 0 1 0,-2.132 v -5.069 a 1.185,1.185 0 0 1 0,-2.133 V 6.921 A 0.708,0.708 0 0 0 58.279,6.212 H 1.251 A 0.708,0.708 0 0 0 0.542,6.921 m 4.023,140.621 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2 m 1.2,-8.4 a 1.2,1.2 0 1 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,1.2 m 0,-7.2 a 1.2,1.2 0 1 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,1.2 m 0,-7.2 a 1.2,1.2 0 1 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,1.2 m 0,-7.2 a 1.2,1.2 0 1 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,1.2 m 0,-7.2 a 1.2,1.2 0 1 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,1.2 m 0,-7.2 a 1.2,1.2 0 1 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,1.2 m 0,-7.2 a 1.2,1.2 0 1 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,1.2 m 0,-7.2 a 1.2,1.2 0 1 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,1.2 m 0,-7.2 a 1.2,1.2 0 1 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,1.2 m 0,-7.2 a 1.2,1.2 0 1 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,1.2 m 0,-7.2 a 1.2,1.2 0 1 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,1.2 m 0,-7.2 a 1.2,1.2 0 1 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,1.2 m 0,-7.2 a 1.2,1.2 0 1 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,1.2 m 0,-7.2 a 1.2,1.2 0 1 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,1.2 m 0,-7.2 a 1.2,1.2 0 1 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,1.2 m 0,-7.2 a 1.2,1.2 0 1 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,1.2 m 0,-7.2 a 1.2,1.2 0 1 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,1.2 m 0,-7.2 a 1.2,1.2 0 1 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,1.2 m 0,-7.2 a 1.2,1.2 0 1 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,1.2 m 7.86,137.4 a 2.52,2.52 0 1 1 2.519,-2.519 2.522,2.522 0 0 1 -2.519,2.519 m 0,-132.95 A 2.519,2.519 0 1 1 16.144,11.472 2.522,2.522 0 0 1 13.622,14 m 8.943,133.54 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2 m 7.2,0 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2 m 24,-1.195 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 m 0,-7.2 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 m 0,-7.2 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 m 0,-7.2 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 m 0,-7.2 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 m 0,-7.2 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 m 0,-7.2 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 m 0,-7.2 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 m 0,-7.2 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 m 0,-7.2 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 m 0,-7.2 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 m 0,-7.2 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 m 0,-7.2 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 m 0,-7.2 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 m 0,-7.2 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 m 0,-7.2 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 m 0,-7.2 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 m 0,-7.2 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 m 0,-7.2 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 m 0,-7.2 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 m -16.8,137.995 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2 m 8.943,-0.591 a 2.52,2.52 0 1 1 2.519,-2.519 2.522,2.522 0 0 1 -2.519,2.519 m 0,-132.95 A 2.519,2.519 0 1 1 48.427,11.479 2.522,2.522 0 0 1 45.908,14"
+     style="fill:#006837"
+     id="path872" />
+  <path
+     d="M 58.4,5.671 H 1.134 A 1.134,1.134 0 0 0 0,6.805 v 1.531 0 A 1.162,1.162 0 0 1 0.54,8.48 V 6.921 A 0.709,0.709 0 0 1 1.249,6.212 h 57.03 a 0.7,0.7 0 0 1 0.5,0.208 L 59.2,6 A 1.131,1.131 0 0 0 58.4,5.668"
+     style="fill:#33865f"
+     id="path874" />
+  <path
+     d="m 0,17.956 v 4.782 0 a 1.158,1.158 0 0 1 0.54,0.143 V 17.813 A 1.17,1.17 0 0 1 0,17.956 Z"
+     style="fill:#33865f"
+     id="path876" />
+  <path
+     d="m 0,25.156 v 4.781 0 A 1.17,1.17 0 0 1 0.54,30.08 V 25.013 A 1.158,1.158 0 0 1 0,25.156 v 0"
+     style="fill:#33865f"
+     id="path878" />
+  <path
+     d="m 0,32.356 v 4.781 0 a 1.169,1.169 0 0 1 0.54,0.142 V 32.214 A 1.169,1.169 0 0 1 0,32.356 Z"
+     style="fill:#33865f"
+     id="path880" />
+  <path
+     d="m 0,39.556 v 4.781 0 A 1.17,1.17 0 0 1 0.54,44.48 V 39.413 A 1.17,1.17 0 0 1 0,39.556 Z"
+     style="fill:#33865f"
+     id="path882" />
+  <path
+     d="m 0,46.755 v 4.781 0 a 1.17,1.17 0 0 1 0.54,0.143 V 46.612 A 1.159,1.159 0 0 1 0,46.756 Z"
+     style="fill:#33865f"
+     id="path884" />
+  <path
+     d="m 0,53.955 v 4.781 0 a 1.17,1.17 0 0 1 0.54,0.143 V 53.812 A 1.17,1.17 0 0 1 0,53.955 Z"
+     style="fill:#33865f"
+     id="path886" />
+  <path
+     d="m 0,61.155 v 4.781 0 a 1.17,1.17 0 0 1 0.54,0.143 V 61.012 A 1.17,1.17 0 0 1 0,61.155 Z"
+     style="fill:#33865f"
+     id="path888" />
+  <path
+     d="m 0,68.355 v 4.781 0 a 1.17,1.17 0 0 1 0.54,0.143 V 68.212 A 1.17,1.17 0 0 1 0,68.355 Z"
+     style="fill:#33865f"
+     id="path890" />
+  <path
+     d="m 0,75.556 v 4.781 0 A 1.17,1.17 0 0 1 0.54,80.48 V 75.413 A 1.17,1.17 0 0 1 0,75.556 Z"
+     style="fill:#33865f"
+     id="path892" />
+  <path
+     d="m 0,82.755 v 4.781 0 a 1.17,1.17 0 0 1 0.54,0.143 V 82.612 A 1.159,1.159 0 0 1 0,82.756 Z"
+     style="fill:#33865f"
+     id="path894" />
+  <path
+     d="m 0,89.955 v 4.781 0 a 1.17,1.17 0 0 1 0.54,0.143 V 89.812 A 1.17,1.17 0 0 1 0,89.955 Z"
+     style="fill:#33865f"
+     id="path896" />
+  <path
+     d="m 0,97.155 v 4.781 0 a 1.17,1.17 0 0 1 0.54,0.143 V 97.012 A 1.17,1.17 0 0 1 0,97.155 Z"
+     style="fill:#33865f"
+     id="path898" />
+  <path
+     d="m 0,104.355 v 4.781 0 a 1.17,1.17 0 0 1 0.54,0.143 v -5.067 A 1.17,1.17 0 0 1 0,104.355 Z"
+     style="fill:#33865f"
+     id="path900" />
+  <path
+     d="m 0,111.556 v 4.781 0 a 1.17,1.17 0 0 1 0.54,0.143 v -5.067 A 1.17,1.17 0 0 1 0,111.556 Z"
+     style="fill:#33865f"
+     id="path902" />
+  <path
+     d="m 0,118.755 v 4.781 0 a 1.17,1.17 0 0 1 0.54,0.143 v -5.066 A 1.17,1.17 0 0 1 0,118.756 Z"
+     style="fill:#33865f"
+     id="path904" />
+  <path
+     d="m 0,125.955 v 4.781 0 a 1.17,1.17 0 0 1 0.54,0.143 v -5.067 A 1.17,1.17 0 0 1 0,125.955 Z"
+     style="fill:#33865f"
+     id="path906" />
+  <path
+     d="m 0,133.155 v 4.781 0 a 1.17,1.17 0 0 1 0.54,0.143 v -5.067 A 1.17,1.17 0 0 1 0,133.155 Z"
+     style="fill:#33865f"
+     id="path908" />
+  <path
+     d="m 0,140.355 v 4.78 0 a 1.17,1.17 0 0 1 0.54,0.143 v -5.066 A 1.17,1.17 0 0 1 0,140.355 Z"
+     style="fill:#33865f"
+     id="path910" />
+  <path
+     d="m 0,10.755 v 4.782 0 a 1.159,1.159 0 0 1 0.54,0.144 V 10.612 A 1.158,1.158 0 0 1 0,10.755 Z"
+     style="fill:#33865f"
+     id="path912" />
+  <path
+     d="m 0.333,149.906 0.416,-0.417 a 0.708,0.708 0 0 1 -0.207,-0.5 v -1.576 a 1.177,1.177 0 0 1 -0.541,0.142 v 1.545 a 1.134,1.134 0 0 0 0.332,0.8"
+     style="fill:#33865f"
+     id="path914" />
+  <path
+     d="M 6.54,16.745 A 1.977,1.977 0 0 0 4.565,14.77 H 0 v 0.766 0 A 1.21,1.21 0 0 1 1.209,16.745 1.211,1.211 0 0 1 0,17.955 v 0 0.765 H 4.565 A 1.977,1.977 0 0 0 6.54,16.745 m -1.975,1.2 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2"
+     style="fill:#9a916c"
+     id="path916" />
+  <path
+     d="M 6.54,21.971 H 0 v 0.766 0 A 1.211,1.211 0 0 1 1.209,23.947 1.21,1.21 0 0 1 0,25.156 v 0 0.765 h 6.54 z m -1.975,3.172 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2"
+     style="fill:#9a916c"
+     id="path918" />
+  <path
+     d="M 6.54,31.146 A 1.978,1.978 0 0 0 4.565,29.17 H 0 v 0.766 0 a 1.21,1.21 0 0 1 0,2.42 v 0 0.765 H 4.565 A 1.978,1.978 0 0 0 6.54,31.146 m -1.975,1.2 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2"
+     style="fill:#9a916c"
+     id="path920" />
+  <path
+     d="M 6.54,38.345 A 1.978,1.978 0 0 0 4.565,36.369 H 0 v 0.766 0 A 1.211,1.211 0 0 1 1.209,38.345 1.21,1.21 0 0 1 0,39.554 v 0 0.765 H 4.565 A 1.976,1.976 0 0 0 6.54,38.345 m -1.975,1.2 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2"
+     style="fill:#9a916c"
+     id="path922" />
+  <path
+     d="M 6.54,45.545 A 1.978,1.978 0 0 0 4.565,43.569 H 0 v 0.766 0 A 1.211,1.211 0 0 1 1.209,45.545 1.21,1.21 0 0 1 0,46.754 v 0 0.765 H 4.565 A 1.976,1.976 0 0 0 6.54,45.545 m -1.975,1.2 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2"
+     style="fill:#9a916c"
+     id="path924" />
+  <path
+     d="M 6.54,52.745 A 1.978,1.978 0 0 0 4.565,50.769 H 0 v 0.766 0 A 1.211,1.211 0 0 1 1.209,52.745 1.21,1.21 0 0 1 0,53.954 v 0 0.765 H 4.565 A 1.976,1.976 0 0 0 6.54,52.745 m -1.975,1.2 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2"
+     style="fill:#9a916c"
+     id="path926" />
+  <path
+     d="M 6.54,57.97 H 0 v 0.766 0 A 1.211,1.211 0 0 1 1.209,59.946 1.21,1.21 0 0 1 0,61.155 v 0 0.765 h 6.54 z m -1.975,3.172 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2"
+     style="fill:#9a916c"
+     id="path928" />
+  <path
+     d="M 6.54,67.145 A 1.977,1.977 0 0 0 4.565,65.17 H 0 v 0.766 0 A 1.21,1.21 0 0 1 1.209,67.145 1.211,1.211 0 0 1 0,68.355 v 0 0.765 H 4.565 A 1.977,1.977 0 0 0 6.54,67.145 m -1.975,1.2 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2"
+     style="fill:#9a916c"
+     id="path930" />
+  <path
+     d="M 6.54,74.345 A 1.977,1.977 0 0 0 4.565,72.37 H 0 v 0.766 0 A 1.21,1.21 0 0 1 1.209,74.345 1.211,1.211 0 0 1 0,75.555 v 0 0.765 H 4.565 A 1.977,1.977 0 0 0 6.54,74.345 m -1.975,1.2 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2"
+     style="fill:#9a916c"
+     id="path932" />
+  <path
+     d="M 6.54,81.545 A 1.977,1.977 0 0 0 4.565,79.57 H 0 v 0.766 0 A 1.21,1.21 0 0 1 1.209,81.545 1.211,1.211 0 0 1 0,82.755 v 0 0.765 H 4.565 A 1.977,1.977 0 0 0 6.54,81.545 m -1.975,1.2 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2"
+     style="fill:#9a916c"
+     id="path934" />
+  <path
+     d="M 6.54,88.745 A 1.977,1.977 0 0 0 4.565,86.77 H 0 v 0.766 0 A 1.21,1.21 0 0 1 1.209,88.745 1.211,1.211 0 0 1 0,89.955 v 0 0.765 H 4.565 A 1.977,1.977 0 0 0 6.54,88.745 m -1.975,1.2 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2"
+     style="fill:#9a916c"
+     id="path936" />
+  <path
+     d="M 6.54,93.97 H 0 v 0.766 0 a 1.21,1.21 0 0 1 0,2.42 v 0 0.765 h 6.54 z m -1.975,3.173 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2"
+     style="fill:#9a916c"
+     id="path938" />
+  <path
+     d="M 6.54,103.146 A 1.978,1.978 0 0 0 4.565,101.17 H 0 v 0.766 0 a 1.211,1.211 0 0 1 1.209,1.21 A 1.21,1.21 0 0 1 0,104.355 v 0 0.766 h 4.565 a 1.978,1.978 0 0 0 1.975,-1.975 m -1.975,1.2 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2"
+     style="fill:#9a916c"
+     id="path940" />
+  <path
+     d="M 6.54,110.346 A 1.978,1.978 0 0 0 4.565,108.37 H 0 v 0.766 0 a 1.211,1.211 0 0 1 1.209,1.21 A 1.21,1.21 0 0 1 0,111.555 v 0 0.765 h 4.565 a 1.976,1.976 0 0 0 1.975,-1.974 m -1.975,1.2 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2"
+     style="fill:#9a916c"
+     id="path942" />
+  <path
+     d="M 6.54,117.546 A 1.978,1.978 0 0 0 4.565,115.57 H 0 v 0.766 0 a 1.211,1.211 0 0 1 1.209,1.21 A 1.21,1.21 0 0 1 0,118.755 v 0 0.765 h 4.565 a 1.976,1.976 0 0 0 1.975,-1.974 m -1.975,1.2 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2"
+     style="fill:#9a916c"
+     id="path944" />
+  <path
+     d="M 6.54,124.746 A 1.978,1.978 0 0 0 4.565,122.77 H 0 v 0.766 0 a 1.211,1.211 0 0 1 1.209,1.21 A 1.21,1.21 0 0 1 0,125.955 v 0 0.765 h 4.565 a 1.976,1.976 0 0 0 1.975,-1.974 m -1.975,1.2 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2"
+     style="fill:#9a916c"
+     id="path946" />
+  <path
+     d="M 6.54,129.971 H 0 v 0.766 0 a 1.21,1.21 0 0 1 1.209,1.209 1.211,1.211 0 0 1 -1.209,1.21 v 0 0.765 h 6.54 z m -1.975,3.172 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2"
+     style="fill:#9a916c"
+     id="path948" />
+  <path
+     d="M 6.54,139.146 A 1.977,1.977 0 0 0 4.565,137.171 H 0 v 0.766 0 a 1.21,1.21 0 0 1 1.209,1.209 1.211,1.211 0 0 1 -1.209,1.21 v 0 0.765 h 4.565 a 1.977,1.977 0 0 0 1.975,-1.975 m -1.975,1.2 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2"
+     style="fill:#9a916c"
+     id="path950" />
+  <path
+     d="M 6.54,146.345 A 1.977,1.977 0 0 0 4.565,144.37 H 0 v 0.766 0 a 1.21,1.21 0 0 1 1.209,1.209 1.211,1.211 0 0 1 -1.209,1.21 v 0 0.765 h 4.565 a 1.977,1.977 0 0 0 1.975,-1.975 m -1.975,1.2 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2"
+     style="fill:#9a916c"
+     id="path952" />
+  <path
+     d="m 54.965,18.721 h 4.564 v -0.766 a 1.21,1.21 0 1 1 0,-2.419 V 14.77 h -4.564 a 1.976,1.976 0 0 0 0,3.951 m -1.2,-1.976 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2"
+     style="fill:#9a916c"
+     id="path954" />
+  <path
+     d="m 52.99,25.921 h 6.539 v -0.766 a 1.21,1.21 0 1 1 0,-2.419 V 21.97 H 52.99 Z m 0.778,-1.975 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2"
+     style="fill:#9a916c"
+     id="path956" />
+  <path
+     d="m 54.965,33.12 h 4.564 v -0.765 a 1.21,1.21 0 1 1 0,-2.419 v -0.767 h -4.564 a 1.976,1.976 0 0 0 0,3.951 m -1.2,-1.975 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2"
+     style="fill:#9a916c"
+     id="path958" />
+  <path
+     d="m 54.965,40.32 h 4.564 v -0.766 a 1.21,1.21 0 1 1 0,-2.419 v -0.766 h -4.564 a 1.976,1.976 0 0 0 0,3.951 m -1.2,-1.975 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2"
+     style="fill:#9a916c"
+     id="path960" />
+  <path
+     d="m 54.965,47.52 h 4.564 v -0.766 a 1.21,1.21 0 1 1 0,-2.419 v -0.766 h -4.564 a 1.976,1.976 0 0 0 0,3.951 m -1.2,-1.975 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2"
+     style="fill:#9a916c"
+     id="path962" />
+  <path
+     d="m 54.965,54.72 h 4.564 v -0.766 a 1.21,1.21 0 1 1 0,-2.419 v -0.766 h -4.564 a 1.976,1.976 0 0 0 0,3.951 m -1.2,-1.975 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2"
+     style="fill:#9a916c"
+     id="path964" />
+  <path
+     d="m 52.99,61.92 h 6.539 v -0.766 a 1.21,1.21 0 1 1 0,-2.419 V 57.969 H 52.99 Z m 0.778,-1.975 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2"
+     style="fill:#9a916c"
+     id="path966" />
+  <path
+     d="m 54.965,69.121 h 4.564 v -0.766 a 1.21,1.21 0 1 1 0,-2.419 V 65.17 h -4.564 a 1.976,1.976 0 0 0 0,3.951 m -1.2,-1.976 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2"
+     style="fill:#9a916c"
+     id="path968" />
+  <path
+     d="m 54.965,76.321 h 4.564 v -0.766 a 1.21,1.21 0 1 1 0,-2.419 V 72.37 h -4.564 a 1.976,1.976 0 0 0 0,3.951 m -1.2,-1.976 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2"
+     style="fill:#9a916c"
+     id="path970" />
+  <path
+     d="m 54.965,83.521 h 4.564 v -0.766 a 1.21,1.21 0 1 1 0,-2.419 v -0.767 h -4.564 a 1.976,1.976 0 0 0 0,3.952 m -1.2,-1.976 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2"
+     style="fill:#9a916c"
+     id="path972" />
+  <path
+     d="m 54.965,90.721 h 4.564 v -0.767 a 1.21,1.21 0 1 1 0,-2.419 v -0.766 h -4.564 a 1.976,1.976 0 0 0 0,3.952 m -1.2,-1.976 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2"
+     style="fill:#9a916c"
+     id="path974" />
+  <path
+     d="m 52.99,97.92 h 6.539 v -0.766 a 1.21,1.21 0 1 1 0,-2.419 V 93.969 H 52.99 Z m 0.778,-1.975 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2"
+     style="fill:#9a916c"
+     id="path976" />
+  <path
+     d="m 54.965,105.12 h 4.564 v -0.766 a 1.21,1.21 0 1 1 0,-2.419 v -0.766 h -4.564 a 1.976,1.976 0 0 0 0,3.951 m -1.2,-1.975 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2"
+     style="fill:#9a916c"
+     id="path978" />
+  <path
+     d="m 54.965,112.321 h 4.564 v -0.766 a 1.21,1.21 0 1 1 0,-2.419 v -0.766 h -4.564 a 1.976,1.976 0 0 0 0,3.951 m -1.2,-1.975 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2"
+     style="fill:#9a916c"
+     id="path980" />
+  <path
+     d="m 54.965,119.521 h 4.564 v -0.766 a 1.21,1.21 0 1 1 0,-2.419 v -0.766 h -4.564 a 1.976,1.976 0 0 0 0,3.951 m -1.2,-1.975 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2"
+     style="fill:#9a916c"
+     id="path982" />
+  <path
+     d="m 54.965,126.721 h 4.564 v -0.766 a 1.21,1.21 0 1 1 0,-2.419 v -0.766 h -4.564 a 1.976,1.976 0 0 0 0,3.951 m -1.2,-1.975 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2"
+     style="fill:#9a916c"
+     id="path984" />
+  <path
+     d="m 52.99,133.921 h 6.539 v -0.766 a 1.21,1.21 0 1 1 0,-2.419 V 129.97 H 52.99 Z m 0.778,-1.976 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2"
+     style="fill:#9a916c"
+     id="path986" />
+  <path
+     d="m 54.965,141.121 h 4.564 v -0.766 a 1.21,1.21 0 1 1 0,-2.419 v -0.766 h -4.564 a 1.976,1.976 0 0 0 0,3.951 m -1.2,-1.976 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2"
+     style="fill:#9a916c"
+     id="path988" />
+  <path
+     d="m 54.965,148.321 h 4.564 v -0.766 a 1.21,1.21 0 1 1 0,-2.419 v -0.767 h -4.564 a 1.976,1.976 0 0 0 0,3.952 m -1.2,-1.976 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2"
+     style="fill:#9a916c"
+     id="path990" />
+  <path
+     d="m 22.565,144.368 a 1.979,1.979 0 0 0 -1.976,1.975 v 3.9 h 0.766 a 1.21,1.21 0 1 1 2.42,0 h 0.765 v -3.9 a 1.979,1.979 0 0 0 -1.975,-1.975 m 1.2,1.976 a 1.2,1.2 0 1 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,1.2"
+     style="fill:#9a916c"
+     id="path992" />
+  <path
+     d="m 27.788,144.43 v 5.809 h 0.766 a 1.21,1.21 0 1 1 2.419,0 h 0.765 v -5.809 z m 3.173,1.914 a 1.2,1.2 0 1 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,1.2"
+     style="fill:#9a916c"
+     id="path994" />
+  <path
+     d="m 36.966,144.368 a 1.979,1.979 0 0 0 -1.976,1.975 v 3.9 h 0.766 a 1.21,1.21 0 1 1 2.419,0 h 0.765 v -3.9 a 1.977,1.977 0 0 0 -1.974,-1.975 m 1.2,1.976 a 1.2,1.2 0 1 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,1.2"
+     style="fill:#9a916c"
+     id="path996" />
+  <path
+     d="m 54.965,11.52 h 4.564 v -0.766 a 1.21,1.21 0 1 1 0,-2.419 V 7.569 h -4.564 a 1.976,1.976 0 0 0 0,3.951 m -1.2,-1.976 a 1.2,1.2 0 1 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2"
+     style="fill:#9a916c"
+     id="path998" />
+  <path
+     d="M 6.54,9.544 A 1.977,1.977 0 0 0 4.565,7.569 H 0 v 0.766 0 A 1.21,1.21 0 0 1 1.211,9.544 1.211,1.211 0 0 1 0,10.754 v 0 0.765 H 4.565 A 1.977,1.977 0 0 0 6.54,9.544 m -1.975,1.2 a 1.2,1.2 0 1 1 1.2,-1.2 1.2,1.2 0 0 1 -1.2,1.2"
+     style="fill:#9a916c"
+     id="path1000" />
+  <path
+     d="m 13.622,148.949 a 4.52,4.52 0 1 1 4.52,-4.519 4.524,4.524 0 0 1 -4.52,4.519 m 0,-7.039 a 2.52,2.52 0 1 0 2.52,2.52 2.523,2.523 0 0 0 -2.52,-2.52"
+     style="fill:#fcee21"
+     id="path1002" />
+  <path
+     d="m 45.908,148.949 a 4.52,4.52 0 1 1 4.52,-4.519 4.525,4.525 0 0 1 -4.52,4.519 m 0,-7.039 a 2.52,2.52 0 1 0 2.52,2.52 2.523,2.523 0 0 0 -2.52,-2.52"
+     style="fill:#fcee21"
+     id="path1004" />
+  <path
+     d="m 13.622,16 a 4.52,4.52 0 1 1 4.52,-4.519 4.524,4.524 0 0 1 -4.52,4.519 m 0,-7.039 a 2.519,2.519 0 1 0 2.52,2.52 2.522,2.522 0 0 0 -2.52,-2.52"
+     style="fill:#fcee21"
+     id="path1006" />
+  <path
+     d="m 45.908,16 a 4.52,4.52 0 1 1 4.52,-4.519 4.525,4.525 0 0 1 -4.52,4.519 m 0,-7.039 a 2.519,2.519 0 1 0 2.52,2.52 2.522,2.522 0 0 0 -2.52,-2.52"
+     style="fill:#fcee21"
+     id="path1008" />
+  <path
+     d="M 20.465,2.883 A 11.555,11.555 0 0 1 19.736,1.833 3.83,3.83 0 0 1 19.436,1.223 4.275,4.275 0 0 1 19.252,0.579 0.34,0.34 0 0 1 19.908,0.4 v 0 a 3.073,3.073 0 0 0 0.523,0.962 10.972,10.972 0 0 0 0.79,0.865 v 0 a 0.50030616,0.50030616 0 1 1 -0.715,0.7 0.515,0.515 0 0 1 -0.043,-0.05"
+     style="fill:#dbddda"
+     id="path1016" />
+  <path
+     d="M 38.308,2.229 A 10.963,10.963 0 0 0 39.098,1.365 3.1,3.1 0 0 0 39.62,0.4 v 0 a 0.34,0.34 0 0 1 0.655,0.179 4.042,4.042 0 0 1 -0.184,0.643 3.826,3.826 0 0 1 -0.3,0.61 11.555,11.555 0 0 1 -0.729,1.05 0.5,0.5 0 1 1 -0.8,-0.6 0.472,0.472 0 0 1 0.041,-0.048 z"
+     style="fill:#dbddda"
+     id="path1018" />
+  <rect
+     style="fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.245669;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3204"
+     width="3.7795277"
+     height="3.7795277"
+     x="27.874737"
+     y="16.331814"
+     ry="1.1338583"
+     rx="1.1338583" />
+  <rect
+     style="fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.245669;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3512"
+     width="3.7795277"
+     height="3.7795277"
+     x="34.081425"
+     y="26.375282"
+     ry="1.1338583"
+     rx="1.1338583" />
+  <rect
+     style="fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.245669;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3514"
+     width="3.7795277"
+     height="3.7795277"
+     x="34.081425"
+     y="32.857235"
+     ry="1.1338583"
+     rx="1.1338583" />
+  <rect
+     style="fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.245669;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3516"
+     width="3.7795277"
+     height="3.7795277"
+     x="34.081425"
+     y="39.703876"
+     ry="1.1338583"
+     rx="1.1338583" />
+  <rect
+     style="fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.245669;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3621"
+     width="3.7795277"
+     height="3.7795277"
+     x="24.84"
+     y="8.290472"
+     ry="1.1338583"
+     rx="1.1338583" />
+  <rect
+     style="fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.245669;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3623"
+     width="3.7795277"
+     height="3.7795277"
+     x="30.042067"
+     y="8.290472"
+     ry="1.1338583"
+     rx="1.1338583" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="8.6391821"
+     y="39.313404"
+     id="text11982"><tspan
+       id="tspan11980"
+       x="8.6391821"
+       y="39.313404"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">3V3</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="8.6391821"
+     y="46.648857"
+     id="text17530"><tspan
+       id="tspan17528"
+       x="8.6391821"
+       y="46.648857"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">ADC_VREF</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="8.5402241"
+     y="53.827484"
+     id="text23064"><tspan
+       id="tspan23062"
+       x="8.5402241"
+       y="53.827484"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 28_A2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="8.6391821"
+     y="61.173424"
+     id="text24298"><tspan
+       id="tspan24296"
+       x="8.6391821"
+       y="61.173424"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">AGND</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="8.6391821"
+     y="18.740412"
+     id="text37380"><tspan
+       id="tspan37378"
+       x="8.6391821"
+       y="18.740412"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">VBUS</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="8.6391821"
+     y="22.755058"
+     id="text37384"><tspan
+       id="tspan37382"
+       x="8.6391821"
+       y="22.755058"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">VSYS</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="8.5428276"
+     y="26.765799"
+     id="text37388"><tspan
+       id="tspan37386"
+       x="8.5428276"
+       y="26.765799"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GND</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="8.6391821"
+     y="32.113602"
+     id="text37392"><tspan
+       id="tspan37390"
+       x="8.6391821"
+       y="32.113602"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">3V3_EN</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="8.6391821"
+     y="68.347496"
+     id="text24298-3"><tspan
+       id="tspan24296-3"
+       x="8.6391821"
+       y="68.347496"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 27_A1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="8.6391821"
+     y="75.521561"
+     id="text24298-4"><tspan
+       id="tspan24296-9"
+       x="8.6391821"
+       y="75.521561"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 26_A0</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="8.6391821"
+     y="82.695625"
+     id="text24298-42"><tspan
+       id="tspan24296-7"
+       x="8.6391821"
+       y="82.695625"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">RUN</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="8.6391821"
+     y="89.869698"
+     id="text24298-6"><tspan
+       id="tspan24296-2"
+       x="8.6391821"
+       y="89.869698"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 22</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="8.6391821"
+     y="97.043755"
+     id="text24298-7"><tspan
+       id="tspan24296-1"
+       x="8.6391821"
+       y="97.043755"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GND</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="8.6391821"
+     y="104.21783"
+     id="text24298-64"><tspan
+       id="tspan24296-8"
+       x="8.6391821"
+       y="104.21783"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 21</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="8.6391821"
+     y="111.3919"
+     id="text24298-5"><tspan
+       id="tspan24296-90"
+       x="8.6391821"
+       y="111.3919"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 20</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="8.6391821"
+     y="118.56596"
+     id="text24298-72"><tspan
+       id="tspan24296-94"
+       x="8.6391821"
+       y="118.56596"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 19</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="8.6391821"
+     y="125.74003"
+     id="text24298-31"><tspan
+       id="tspan24296-84"
+       x="8.6391821"
+       y="125.74003"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 18</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="8.6391821"
+     y="131.27843"
+     id="text24298-8"><tspan
+       id="tspan24296-6"
+       x="8.6391821"
+       y="131.27843"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GND</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="8.6391821"
+     y="138.6389"
+     id="text45821"><tspan
+       id="tspan45819"
+       x="8.6391821"
+       y="138.6389"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 16</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="8.6391821"
+     y="134.95866"
+     id="text45825"><tspan
+       id="tspan45823"
+       x="8.6391821"
+       y="134.95866"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 17</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="45.95887"
+     y="39.313404"
+     id="text47521"><tspan
+       id="tspan47519"
+       x="45.95887"
+       y="39.313404"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 3</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="45.874233"
+     y="46.648857"
+     id="text47525"><tspan
+       id="tspan47523"
+       x="45.874233"
+       y="46.648857"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 4</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="45.947151"
+     y="53.827484"
+     id="text47529"><tspan
+       id="tspan47527"
+       x="45.947151"
+       y="53.827484"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 5</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="46.059132"
+     y="61.173424"
+     id="text47533"><tspan
+       id="tspan47531"
+       x="46.059132"
+       y="61.173424"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GND</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="45.915901"
+     y="18.740412"
+     id="text47537"><tspan
+       id="tspan47535"
+       x="45.915901"
+       y="18.740412"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 0</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="46.023975"
+     y="22.755058"
+     id="text47541"><tspan
+       id="tspan47539"
+       x="46.023975"
+       y="22.755058"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="46.059132"
+     y="26.765799"
+     id="text47545"><tspan
+       id="tspan47543"
+       x="46.059132"
+       y="26.765799"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GND</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="45.925014"
+     y="32.113602"
+     id="text47549"><tspan
+       id="tspan47547"
+       x="45.925014"
+       y="32.113602"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="45.895069"
+     y="68.347496"
+     id="text47553"><tspan
+       id="tspan47551"
+       x="45.895069"
+       y="68.347496"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 6</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="45.904182"
+     y="75.521561"
+     id="text47557"><tspan
+       id="tspan47555"
+       x="45.904182"
+       y="75.521561"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 7</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="45.904182"
+     y="82.695625"
+     id="text47561"><tspan
+       id="tspan47559"
+       x="45.904182"
+       y="82.695625"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 8</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="45.918507"
+     y="89.869698"
+     id="text47565"><tspan
+       id="tspan47563"
+       x="45.918507"
+       y="89.869698"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 9</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="46.059132"
+     y="97.043755"
+     id="text47569"><tspan
+       id="tspan47567"
+       x="46.059132"
+       y="97.043755"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GND</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="44.457565"
+     y="104.21783"
+     id="text47573"><tspan
+       id="tspan47571"
+       x="44.457565"
+       y="104.21783"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 10</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="44.565639"
+     y="111.3919"
+     id="text47577"><tspan
+       id="tspan47575"
+       x="44.565639"
+       y="111.3919"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 11</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="44.466682"
+     y="118.56596"
+     id="text47581"><tspan
+       id="tspan47579"
+       x="44.466682"
+       y="118.56596"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 12</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="44.500534"
+     y="125.74003"
+     id="text47585"><tspan
+       id="tspan47583"
+       x="44.500534"
+       y="125.74003"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 13</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="46.059132"
+     y="131.27843"
+     id="text47589"><tspan
+       id="tspan47587"
+       x="46.059132"
+       y="131.27843"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GND</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="44.488815"
+     y="138.6389"
+     id="text47593"><tspan
+       id="tspan47591"
+       x="44.488815"
+       y="138.6389"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 15</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="44.415901"
+     y="134.95866"
+     id="text47597"><tspan
+       id="tspan47595"
+       x="44.415901"
+       y="134.95866"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GP 14</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="-142.44057"
+     y="23.533903"
+     id="text74493"
+     transform="rotate(-90)"><tspan
+       id="tspan74491"
+       x="-142.44057"
+       y="23.533903"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">SWDIO</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="-142.44057"
+     y="30.730816"
+     id="text3463"
+     transform="rotate(-90)"><tspan
+       id="tspan3461"
+       x="-142.44057"
+       y="30.730816"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">GND</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="-142.44057"
+     y="37.764164"
+     id="text3467"
+     transform="rotate(-90)"><tspan
+       id="tspan3465"
+       x="-142.44057"
+       y="37.764164"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">SWCLK</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="22.378742"
+     y="14.978389"
+     id="text5483"><tspan
+       id="tspan5481"
+       x="22.378742"
+       y="14.978389"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">TP 2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="28.594257"
+     y="22.993134"
+     id="text6345"><tspan
+       id="tspan6343"
+       x="28.594257"
+       y="22.993134"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">TP 1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="31.211317"
+     y="14.978389"
+     id="text6349"><tspan
+       id="tspan6347"
+       x="31.211317"
+       y="14.978389"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">TP 3</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="27.755592"
+     y="29.234447"
+     id="text6353"><tspan
+       id="tspan6351"
+       x="27.755592"
+       y="29.234447"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">TP 4</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="27.82851"
+     y="35.69622"
+     id="text6357"><tspan
+       id="tspan6355"
+       x="27.82851"
+       y="35.69622"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">TP 5</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="27.776426"
+     y="42.561089"
+     id="text6361"><tspan
+       id="tspan6359"
+       x="27.776426"
+       y="42.561089"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">TP 6</tspan></text>
+  <rect
+     style="fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.245669;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3516-4"
+     width="3.7795277"
+     height="3.7795277"
+     x="22.377439"
+     y="61.655735"
+     ry="1.1338583"
+     rx="1.1338583" />
+</svg>
