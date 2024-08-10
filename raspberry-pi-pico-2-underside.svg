@@ -3,7 +3,7 @@
    viewBox="0 0 59.529 150.239"
    version="1.1"
    id="svg1242"
-   sodipodi:docname="raspberry-pi-pico-underside.svg"
+   sodipodi:docname="raspberry-pi-pico-2-underside.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25)"
    inkscape:export-filename="raspberry-pi-pico-2-underside.svg"
    inkscape:export-xdpi="96"
@@ -24,13 +24,13 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="13.634485"
-     inkscape:cx="27.283758"
-     inkscape:cy="40.375561"
-     inkscape:window-width="1920"
-     inkscape:window-height="1110"
-     inkscape:window-x="1920"
-     inkscape:window-y="960"
-     inkscape:window-maximized="1"
+     inkscape:cx="24.496708"
+     inkscape:cy="54.274144"
+     inkscape:window-width="1816"
+     inkscape:window-height="925"
+     inkscape:window-x="0"
+     inkscape:window-y="43"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg1242"
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1" />
@@ -1012,6 +1012,17 @@
        x="27.776426"
        y="42.561089"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">TP 6</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.66667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#ffffff"
+     x="27.155121"
+     y="64.5149"
+     id="text6361-3"><tspan
+       sodipodi:role="line"
+       id="tspan6359-8"
+       x="27.155121"
+       y="64.5149"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma">TP 7</tspan></text>
   <rect
      style="fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:0.245669;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect3516-4"
