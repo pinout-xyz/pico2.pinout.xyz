@@ -142,7 +142,8 @@ td, th {
     position: relative;
     border-width:0 4px 0 4px;
     border-style: solid;
-    padding: 0 8px;
+    padding: 0 5px;
+    min-width: 60px;
 }
 .extra td {
     border: none;
