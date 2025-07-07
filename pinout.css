@@ -107,7 +107,7 @@ table {
     position: relative;
     left: 2px;
 }
-.labels.below td {
+.labels.below td { 
     width: 25px;
     height: auto;
     border: none;
@@ -117,8 +117,15 @@ table {
     min-width: 25px;
     display: inline-block;
 }
-.underside-view .labels.below {
-    left: -2px;
+.australian-view .labels.left, .australian-view .labels.right {
+    transform: scale(1, -1);
+}
+.australian-view .labels.left tr, .australian-view .labels.right tr {
+    transform: scale(1, -1);
+}
+.australian-view .labels.below {
+    position: relative;
+    top: -550px;
 }
 .labels th, .labels thead {display:none;}
 .labels tbody tr:before {
@@ -250,6 +257,30 @@ td, th {
 /* Top-up View */
 .underside {
     display: none;
+}
+
+/* Aussie View */
+.australian-view .pico {
+    rotate: 180deg;
+    position: relative;
+    top: 8px;
+}
+
+.australian-view {
+    direction: rtl;
+}
+.australian-view .labels.left {
+    direction: ltr;
+}
+.australian-view .labels.left td {border-width:0 4px 0 0;}
+.australian-view .labels.right td {border-width:0 0 0 4px;}
+.underside-view.australian-view .labels.left td {border-width:0 0 0 4px;}
+.underside-view.australian-view .labels.right td {border-width:0 4px 0 0;}
+.underside-view.australian-view {
+    direction: ltr;
+}
+.underside-view.australian-view .labels.left {
+    direction: rtl;
 }
 
 /* Bottom-up View */
