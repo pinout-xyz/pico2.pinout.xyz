@@ -306,3 +306,7 @@ sup {
         color: #e9e5d2;
     }
 }
+
+@media print {
+    footer, header ul, #nav {display:none;}
+}
