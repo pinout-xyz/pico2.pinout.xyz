@@ -15,8 +15,7 @@ const PRECACHE = [
     "pipipi-icon-48.png",
     "pipipi-icon-512.png",
     "raspberry-pi-pico-2-underside.svg",
-    "raspberry-pi-pico-2.svg",
-    "register_serviceworker.js"
+    "raspberry-pi-pico-2.svg"
 ];
 
 self.addEventListener("install", (event) => {
