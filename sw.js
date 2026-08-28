@@ -7,7 +7,6 @@ const PRECACHE = [
     ".",
     "index.html",
     "manifest.json",
-    "picow.html",
     "pinout-logo.png",
     "pinout.css",
     "pinout.js",
